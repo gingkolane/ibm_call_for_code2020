@@ -1,0 +1,9 @@
+[submodule "react-native-maps"]
+	path = react-native-maps
+	url = git@github.com:gingkolane/react-native-maps.git
+[submodule "starter-kit-cooperation"]
+	path = starter-kit-cooperation
+	url = git@github.com:gingkolane/Solution-Starter-Kit-Cooperation-2020.git
+[submodule "ignite"]
+	path = ignite
+	url = git@github.com:infinitered/ignite.git
